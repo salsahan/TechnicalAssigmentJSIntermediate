@@ -18,7 +18,7 @@ const person = {
 
 /// EDIT HERE
 
-person.name = "// Win azmi";
+person.name = "// Salsa Hany";
 for(let i=0; i < person.favDrinks.length; i++){
     if(person.favDrinks[i].search("temulawak") >= 0){
         person.favDrinks[i] = "tap water";
